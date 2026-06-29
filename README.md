@@ -1,4 +1,4 @@
-# FairSAD
+# Grad2Fair
 A PyTorch implementation of "Grad2Fair: A Gradient-driven Approach for Graph Fairness without Demographics"
 
 ## 📖 Overview
